@@ -1,0 +1,107 @@
+[
+    {
+    "productID": 101,
+    "productName": "Aluminum Water Bottle",
+    "productCount": 200,
+    "productPrice": 10,
+    "productDepartment": "Accessories"
+    },
+    {
+    "productID": 102,
+    "productName": "Steel Water Bottle",
+    "productCount": 450,
+    "productPrice": 20,
+    "productDepartment": "Accessories"
+    },
+{
+    "productID": 103,
+    "productName": "Carbon Fiber Racing Bike",
+    "productCount": 30,
+    "productPrice": 700,
+    "productDepartment": "Bikes"
+},
+{
+    "productID": 104,
+    "productName": "Kids Knee and Elbow Pads",
+    "productCount": 350,
+    "productPrice": 30,
+    "productDepartment": "Accessories"
+},
+{
+    "productID": 105,
+    "productName": "Reflective Lights",
+    "productCount": 250,
+    "productPrice": 15,
+    "productDepartment": "Accessories"
+},
+{
+    "productID": 106,
+    "productName": "22 Inch Carbon Fiber BMX Bike",
+    "productCount": 20,
+    "productPrice": 500,
+    "productDepartment": "Bikes"
+},
+{
+    "productID": 107,
+    "productName": "20 Inch BMX Bike",
+    "productCount": 30,
+    "productPrice": 250,
+    "productDepartment": "Bikes"
+},
+{
+    "productID": 108,
+    "productName": "26 Inch Bike Tube",
+    "productCount": 300,
+    "productPrice": 15,
+    "productDepartment": "Bike Tools"
+},
+{
+    "productID": 109,
+    "productName": "26 Inch Bike Tire",
+    "productCount": 300,
+    "productPrice": 15,
+    "productDepartment": "Bike Tools"
+},
+{
+    "productID": 110,
+    "productName": "22 Inch Bike Tube",
+    "productCount": 300,
+    "productPrice": 10,
+    "productDepartment": "Bike Tools"
+},
+{
+    "productID": 111,
+    "productName": "22 Inch Bike Tire",
+    "productCount": 300,
+    "productPrice": 10,
+    "productDepartment": "Bike Tools"
+},
+{
+    "productID": 112,
+    "productName": "Aluminum Racing Bike",
+    "productCount": 50,
+    "productPrice": 400,
+    "productDepartment": "Bikes"
+},
+{
+    "productID": 113,
+    "productName": "Steel Mountain Bike",
+    "productCount": 30,
+    "productPrice": 600,
+    "productDepartment": "Bikes"
+},
+{
+    "productID": 114,
+    "productName": "Kids Starter Bike",
+    "productCount": 100,
+    "productPrice": 100,
+    "productDepartment": "Bikes"
+},
+{
+    "productID": 115,
+    "productName": "Adult Knee and Elbow Pads",
+    "productCount": 100,
+    "productPrice": 30,
+    "productDepartment": "Accessories"
+}
+]
