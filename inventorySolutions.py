@@ -2,6 +2,8 @@ import pymongo
 import json
 from bson.objectid import ObjectId
 from pprint import pprint
+import collections
+from collections import Counter
 
 
 
@@ -12,7 +14,7 @@ db = client['inventorySolutions']
 info = db.inventorySolutions
 
 def menu():
-    print('\nWelcome To Inventory Solutions, Your All In One Data Warehouse!\n')
+    print('\nWelcome To Inventory Solutions, Your All-In-One Data Warehouse!\n')
     print('Menu Options: \n')
     print('[1] Add Inventory Item\n')
     print('[2] Remove Inventory Item\n')
@@ -168,7 +170,7 @@ def option6():
     except:
         print('\nPlease Try Again, An Unexpected Error Has Occured.\n')
   
-
+errorList = []
 menu()
 option = int(input("\nEnter Your Desired Menu Option: \n"))
 
@@ -186,8 +188,11 @@ while option != 0:
     elif option == 6:
         option6()
     else:
+        errorList.append(option)
+        print('Prior Errors',collections.Counter(errorList))
         print("\nInvalid Option, Please Try Again, Thank You.\n")
     print()
     menu()
     option = int(input('\nEnter Your Desired Menu Option: \n'))
-print('\nThank You For Using Inventory Solutions, Your All In One Data Warehouse!\n')
+print('\nThank You For Using Inventory Solutions, Your All-In-One Data Warehouse!\n')
+
