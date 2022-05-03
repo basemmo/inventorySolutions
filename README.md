@@ -4,6 +4,7 @@ Inventory Solutions
 This is a Python built CLI Application used for enhanced data warehousing. Keeps track of all inventory items, by having full capabilities for CRUD (Create, Remove, Update, Delete) operations, as well as inventory loading through JSON files, and in-house data analytics.
 
 Technologies Used:
+
     JSON
     PyMongo
     BSON: ObjectId
@@ -12,12 +13,14 @@ Technologies Used:
     MongoDB - Version 5.0
 
 Features:
+
     Fully Functional CLI Menu
     CRUD (Create, Remove, Update, Delete) Inventory Operations
     Inventory Loading Through JSON File Loading Into MongoDB
     In-House Data Analytics That Check Current Statistics
 
 Getting Started:
+
   Environment setup steps:
   $ pip install mongo db
 
