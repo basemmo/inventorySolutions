@@ -25,6 +25,7 @@ Getting Started:
   command line. Note that bike.json should be open in the editor if you would like to load example "bike store" data into your inventory database.
   
 The Program In Usage:
+
 <img width="368" alt="python cli" src="https://user-images.githubusercontent.com/100736124/166401844-cdbcb86d-0275-45be-ae86-a0e795efe2d2.png">
 <img width="370" alt="cli 2" src="https://user-images.githubusercontent.com/100736124/166401864-42288bf7-e0a1-48e5-b7aa-9b84ed7c604d.png">
 <img width="205" alt="cli " src="https://user-images.githubusercontent.com/100736124/166401871-6a76327d-d878-47dc-a028-03eb4a409c0d.png">
